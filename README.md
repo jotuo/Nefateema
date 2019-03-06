@@ -1,3 +1,11 @@
+This is 'nefateema', a theme built from Underscores starter theme from Underscores.me.
+This was created to be used on Nefa-Joensuu Ry's Wordpress website, originally as a project for the author's Bachelor's degree's 
+Project Work course.
+
+Below is the original Read Me text from Undescores.
+
+-----
+
 [![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)
 
 _s
